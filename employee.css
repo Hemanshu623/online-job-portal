@@ -1,0 +1,11 @@
+    .card1 {
+        display: flex;
+        justify-content: space-around;
+        gap: 10px;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    /* .card {
+        --bs-card-title-spacer-y: -1.5rem;
+    } */
